@@ -1,5 +1,5 @@
 # hello-world
 project repository
-hi everyone
+hi everyone!
 its me charm, new here i dont know if im doing the right thing...
-just go with the flow
+just go with the flow...
